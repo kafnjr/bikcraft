@@ -101,6 +101,14 @@ p {
   color: #fec63e;
   text-align: center;
   text-transform: uppercase;
-  padding: 8px;
+  padding: 5px;
   font-size: 14px;
+  font-weight: bold;
+  line-height: 20px;
+  letter-spacing: 0.1em;
+}
+
+.btn:hover {
+  border-color: #ffffff;
+  color: #ffffff;
 }
